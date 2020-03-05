@@ -41,13 +41,6 @@ public class BaseDeDadosPOO {
 					+ " de sueldo.");
 			System.out.println("");
 		}
-		
-		// BUSQUEDA DE INFORMACION SOBRE UM EMPLEADO
-		
-		System.out.print("Ingrese la cedula del empleado a busca: ");
-		String buscar_cedula = entrada.next();
-		
-		
 	}
 
 }
